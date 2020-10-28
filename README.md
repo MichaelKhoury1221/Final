@@ -1,5 +1,8 @@
-import java.util.Scanner; 
-public class JavaIdentificationCode {
+     
+     
+     
+     import java.util.Scanner; 
+      public class JavaIdentificationCode {
 
     /**
      * @param args the command line arguments
