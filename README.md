@@ -34,8 +34,8 @@
 
 
         //Last Name
-        int indexOfSpace = "name".indexOf(" "); // 6
-        System.out.println("The character is: " + "name".substring(indexOfSpace + 1, indexOfSpace + 2));
+        //int indexOfSpace = "name".indexOf(" "); // 6
+        //System.out.println("The character is: " + "name".substring(indexOfSpace + 1, indexOfSpace + 2));
         String lastNameLetter = name.substring(space + 1, space + 2);
 
 
